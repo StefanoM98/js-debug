@@ -23,7 +23,7 @@ function addIfEven(num) {
     }
     return num;
 }
-addIfEven()
+console.log(addIfEven(5)); 
 // AGGIUNTI ALTRI 2 == PER IDENTICITA' E RICHIAMATA LA FUNZIONE
 
 // ESERCIZIO 3
